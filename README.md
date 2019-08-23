@@ -10,4 +10,5 @@ The Transportation DSD tracker serves as the primary work tracking system for TD
 
 **[Read the docs](https://atd.knack.com/development-services#home/wiki)**
 
+![TDSD Home](media/TDSD_screen_shot.png)
 
