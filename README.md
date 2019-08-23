@@ -8,7 +8,7 @@ The Transportation DSD tracker serves as the primary work tracking system for TD
 #### Stakeholder Divisions
 - Transportation Development Review Division
 
-**[Read the docs](https://atd.knack.com/development-services#home/wiki)**
+**[Read the docs](https://github.com/cityofaustin/atd-knack-development-review/wiki)**
 
 ![TDSD Home](media/TDSD_screen_shot.png)
 
