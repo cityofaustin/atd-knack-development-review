@@ -1,8 +1,8 @@
 ---
 name: Feature
-about: Describe this issue template's purpose here.
+about: New feature development
 title: ''
-labels: 'Service: Apps, Type: Feature'
+labels: 'Service: Apps, Type: Feature, Workgroup: TDSD'
 assignees: dianamartin
 
 ---
