@@ -30,3 +30,7 @@ $(document).on('knack-view-render.view_61', function(event, page) {
     // create large button on the home page
     bigButton('search-comments', 'view_61', "https://atd.knack.com/development-services#search-comments/", "search", "Search | Comments");
 });
+$(document).on('knack-view-render.view_61', function(event, page) {
+    // create large button on the home page
+    bigButton('search-comments', 'view_61', "https://atd.knack.com/development-services#search-comments/", "search", "Search | Comments");
+});
