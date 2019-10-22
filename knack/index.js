@@ -30,7 +30,7 @@ $(document).on('knack-view-render.view_61', function(event, page) {
     // create large button on the home page
     bigButton('search-comments', 'view_61', "https://atd.knack.com/development-services#search-comments/", "search", "Search | Comments");
 });
-$(document).on('knack-view-render.view_61', function(event, page) {
+$(document).on('knack-view-render.view_81', function(event, page) {
     // create large button on the home page
-    bigButton('search-comments', 'view_61', "https://atd.knack.com/development-services#search-comments/", "search", "Search | Comments");
+    bigButton('help-guide', 'view_81', "https://github.com/cityofaustin/atd-knack-development-review/wiki/Transportation-Development-Services-Help-Guide", "book", "Help Guide");
 });
